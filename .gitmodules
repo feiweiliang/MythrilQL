@@ -1,0 +1,3 @@
+[submodule "SMTimer"]
+	path = SMTimer
+	url = https://github.com/Artisan-Lab/SMTimer

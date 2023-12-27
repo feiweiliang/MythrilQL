@@ -2,7 +2,7 @@
 
 结合强化学习和符号执行的智能合约漏洞检测工具，在EVM 字节码的安全分析工具[Mythril](https://github.com/Consensys/mythril)基础上实现
 
-论文**《Reinforcement Learning Guided Symbolic Execution for Ethereum Smart Contracts》**发表于会议[APSEC2023](https://conf.researchr.org/home/apsec-2023)
+论文**Reinforcement Learning Guided Symbolic Execution for Ethereum Smart Contracts**发表于会议[APSEC2023](https://conf.researchr.org/home/apsec-2023)
 
 ## 简介
 
